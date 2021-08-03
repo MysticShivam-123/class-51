@@ -1,0 +1,33 @@
+
+    h1 {color:#9a2cd8}
+    * {border:solid}
+
+    .header {
+        background-color: #4a3cd6;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .troy {
+        background-color: #2a2c9f;
+    }
+
+    .games {
+        background-color: #3a4644;
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        background-color: #84563c;
+        display:flex;
+        justify-content: flex-end;
+    }
+    p,h2 {
+        text-align: center;
+    }
+
+    body {
+        background-color: #808080;
+    }
